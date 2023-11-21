@@ -4,7 +4,7 @@
 - Currently I learning C,JAVA
 - My interest is to keep on learning new things.
 - -------------Thank you--------------
-- 📫 How to reach me ... t.me/MR_GOUTAM08
+- 📫 How to reach me ... https://t.me/MR_GOUTAM08
 
 <!---
 GoutamHX/GoutamHX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
