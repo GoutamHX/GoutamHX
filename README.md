@@ -2,7 +2,6 @@
 - My name is Goutam . I am living in Indore Mp
 - I'm B.Tech Cs , Student 
 - Currently I learning C,JAVA
-- My interest is to keep on learning new things.
 - -------------Thank you--------------
 - 📫 How to reach me ... https://t.me/MR_GOUTAM08
 
