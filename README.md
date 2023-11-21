@@ -3,7 +3,7 @@
 - I'm B.Tech Cs , Student 
 - Currently I learning C,JAVA
 - My interest is to keep on learning new things.
- -------------Thank you--------------
+- -------------Thank you--------------
 - 📫 How to reach me ... t.me/MR_GOUTAM08
 
 <!---
