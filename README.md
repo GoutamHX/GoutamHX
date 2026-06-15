@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Goutam+%F0%9F%91%8B;MERN+Stack+Developer;Crafting+scalable+web+applications;Turning+ideas+into+digital+experiences" alt="Typing SVG" />
+<h1>Hi, I'm Goutam Septa 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Crafting+scalable+web+applications;Turning+ideas+into+digital+experiences" alt="Goutam Septa - MERN Stack Developer" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=GoutamHX&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
@@ -22,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-A **MERN Stack Developer** turning ideas into seamless, high-performance digital experiences. I build scalable, user-focused web applications with clean architecture — balancing **performance, accessibility, responsiveness, and maintainability**.
+I'm **Goutam Septa**, a **MERN Stack Developer** turning ideas into seamless, high-performance digital experiences. I build scalable, user-focused web applications with clean architecture — balancing **performance, accessibility, responsiveness, and maintainability**.
 
 - 🚀 **1.5+ years** of hands-on experience building real-world, production-ready web apps
 - 🧩 I work closely with design systems and backend services to deliver real business value
@@ -53,16 +55,16 @@ A **MERN Stack Developer** turning ideas into seamless, high-performance digital
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Goutam Septa GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GoutamHX&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GoutamHX&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
