@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Goutam+Septa+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Web+Developer;Crafting+scalable+web+applications" alt="Goutam Septa - MERN Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Goutam+Septa+%F0%9F%91%8B;Full+Stack+Web+Developer;Crafting+scalable+web+applications" alt="Goutam Septa - MERN Stack Developer" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=GoutamHX&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
@@ -60,7 +60,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
