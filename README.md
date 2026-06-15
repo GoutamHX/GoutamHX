@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Goutam Septa 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Crafting+scalable+web+applications;Turning+ideas+into+digital+experiences" alt="Goutam Septa - MERN Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Goutam+Septa+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Web+Developer;Crafting+scalable+web+applications" alt="Goutam Septa - MERN Stack Developer" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=GoutamHX&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
@@ -55,12 +53,12 @@ I'm **Goutam Septa**, a **MERN Stack Developer** turning ideas into seamless, hi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Goutam Septa GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Goutam Septa GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 <br/><br/>
 
