@@ -22,12 +22,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Goutam Septa**, a **MERN Stack Developer** turning ideas into seamless, high-performance digital experiences. I build scalable, user-focused web applications with clean architecture — balancing **performance, accessibility, responsiveness, and maintainability**.
+🚀 I'm **Goutam Septa** — a **MERN Stack Developer** focused on building scalable web applications, SaaS products, Telegram bots, and modern user experiences.
 
-- 🚀 **1.5+ years** of hands-on experience building real-world, production-ready web apps
-- 🧩 I work closely with design systems and backend services to deliver real business value
-- 🎯 Every line of code has a purpose — building meaningful products that solve real problems
-- 💬 **Open to collaboration** — need a reliable full-stack developer to turn ideas into modern, functional web apps? Let's build something great together.
+💡 Passionate about clean architecture, performance optimization, and solving real-world problems through technology.
+
+🛠️ **1.5+ years** of hands-on experience building production-ready web apps &nbsp;·&nbsp; 💬 **Open to collaboration**
 
 ---
 
@@ -56,13 +55,9 @@ I'm **Goutam Septa**, a **MERN Stack Developer** turning ideas into seamless, hi
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Goutam Septa GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-<br/><br/>
+<br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GoutamHX&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -88,6 +83,14 @@ I'm **Goutam Septa**, a **MERN Stack Developer** turning ideas into seamless, hi
 
 Looking for a reliable full-stack developer who can turn ideas into modern, fully functional web applications? I'd love to collaborate.
 
-🌐 **[imgoutam.dev](https://www.imgoutam.dev)** &nbsp;•&nbsp; 📧 **hello@imgoutam.dev** &nbsp;•&nbsp; ✈️ **[Telegram](https://t.me/MR_GOUTAM08)** _(for instant reply)_
+<a href="https://www.imgoutam.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:hello@imgoutam.dev">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/MR_GOUTAM08">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
 </div>
