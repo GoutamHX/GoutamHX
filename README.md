@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=GoutamHX&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 </p>
 
-<a href="https://www.linkedin.com/in/goutamsepta-a016262a0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.imgoutam.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:hello@imgoutam.dev">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -53,12 +53,16 @@ A **MERN Stack Developer** turning ideas into seamless, high-performance digital
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GoutamHX&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -84,6 +88,6 @@ A **MERN Stack Developer** turning ideas into seamless, high-performance digital
 
 Looking for a reliable full-stack developer who can turn ideas into modern, fully functional web applications? I'd love to collaborate.
 
-📧 **hello@imgoutam.dev** &nbsp;•&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/goutamsepta-a016262a0)** &nbsp;•&nbsp; ✈️ **[Telegram](https://t.me/MR_GOUTAM08)** _(for instant reply)_
+🌐 **[imgoutam.dev](https://www.imgoutam.dev)** &nbsp;•&nbsp; 📧 **hello@imgoutam.dev** &nbsp;•&nbsp; ✈️ **[Telegram](https://t.me/MR_GOUTAM08)** _(for instant reply)_
 
 </div>
